@@ -4,7 +4,6 @@ import java.util.List;
 import java.util.ArrayList;
 
 public class RPSTest {
-
   @Test
   public void playerOneInputs_shouldBeAString_true() {
 
